@@ -1,0 +1,21 @@
+
+body{
+  background-image: radial-gradient(orange, white, green);
+  background-repeat: no-repeat;
+ background-size: cover;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  text-shadow: 20px;
+  color: red;
+  font-style: italic;
+  font-size: 40px;
+}
+
+img{
+  border: 5px solid white;
+  border-radius: 50%;
+  display: inline-block;
+}
